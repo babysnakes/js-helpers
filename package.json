@@ -1,0 +1,14 @@
+{
+  "name": "js-helpers",
+  "version": "0.0.0",
+  "description": "Just some helpers to copy/paste into a project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --ui tdd test/test.js"
+  },
+  "author": "Haim Ashkenazi <haim@babysnakes.org>",
+  "license": "GPL",
+  "devDependencies": {
+    "mocha": "~1.12.1"
+  }
+}
